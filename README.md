@@ -14,7 +14,10 @@ Lenguaje: AMS - C
 
 UNIVERSIDAD NACIONAL DE PIURA, PERÚ
 
-**Listado de práticas ** 
-1).- Retardos.inc
-2).- Práctica de puertos 01: P1-Corrimiento_Leds
-3).- Práctica de puertos 02: P2-Display_7SEG
+**Listado de prácticas ** 
+1).- Práctica de retardos
+
+2).- Práctica de 01: P1-Corrimiento_Leds
+
+3).- Práctica de 02: P2-Display_7SEG
+
