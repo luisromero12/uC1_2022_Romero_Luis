@@ -1,20 +1,20 @@
-# uC1_2022_Romero_Luis
+# UNP
 
-Curso: Microcontroladores I
+**Curso: ** Microcontroladores I
 
-*Autor:*Romero Romero Luis Angel
+**Autor :** Romero Romero Luis Angel
 
 **Descripción :** Este repositorio tiene como fin subir un conjunto de trabajos y exámenes en los cual vamos a poner en práctica los conocimientos adquiridos en clase.
 
-Tarjeta: Curiosity Nano PIC18f57q84
+**Tarjeta:** Curiosity Nano PIC18f57q84
 
-Entorno: MPLAB X IDE 6.05
+**Entorno:** MPLAB X IDE 6.05
 
-Lenguaje: AMS - C
+**Lenguaje:** AMS - C
 
 UNIVERSIDAD NACIONAL DE PIURA, PERÚ
 
-**Listado de prácticas 
+**Listado de prácticas **
 
 1).- Práctica de retardos
 
