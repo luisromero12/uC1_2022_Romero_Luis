@@ -1,6 +1,6 @@
 # UNP
 
-**Curso** Microcontroladores I
+**Curso :** Microcontroladores I
 
 **Autor :** Romero Romero Luis Angel
 
