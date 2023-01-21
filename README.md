@@ -1,6 +1,6 @@
 # UNP
 
-**Curso: ** Microcontroladores I
+**Curso** Microcontroladores I
 
 **Autor :** Romero Romero Luis Angel
 
@@ -21,3 +21,4 @@ UNIVERSIDAD NACIONAL DE PIURA, PERÚ
 2).- Práctica de 01: P1-Corrimiento_Leds
 
 3).- Práctica de 02: P2-Display_7SEG
+
