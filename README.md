@@ -14,7 +14,7 @@
 
 UNIVERSIDAD NACIONAL DE PIURA, PERÚ
 
-**Listado de prácticas**
+**Listado de prácticas :**
 
 1).- Práctica de retardos
 
