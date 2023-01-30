@@ -21,3 +21,5 @@ UNIVERSIDAD NACIONAL DE PIURA, PERÚ
 2).- Práctica de 01: P1-Corrimiento_Leds
 
 3).- Práctica de 02: P2-Display_7SEG
+
+4).- Pregunta 02 del parcial 02
